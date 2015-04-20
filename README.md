@@ -1,4 +1,4 @@
-# PAOL Conference Targets
+# PAOL Paper Targets
 
 * [Top Conferences in Computer Education](tcce) (Microsoft Academic Research)
 
