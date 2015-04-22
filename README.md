@@ -17,6 +17,20 @@
 [MTEL 2015]: http://mtel.hsw-hameln.de/CfP_MTEL_2015.pdf
 [ITICSE 2015]: http://www.iticse2015.mii.vu.lt
 
+## Top CS Education Conferences
+
+* SIGCSE - Technical Symposium on Computer Science Education
+* ITS - Intelligent Tutoring Systems
+* ITiCSE - Annual Joint Conference Integrating Technology into Computer Science Education
+* ACE - Australasian Computing Education Conference
+* FECS - Conference on Frontiers in Education
+* WMTE - Wireless and Mobile Technologies in Education
+* CATE - Computers and Advanced Technology in Education
+* ICALT - International Conference on Advanced Learning Technologies
+* ICCE - International Conference on Computers in Education
+* ICWL - International Conference on Web-Based Learning
+* WCCE - World Conference on Computers in Education
+
 ## Resources
 
 * [Top Conferences in Computer Education](tcce) (Microsoft Academic Research)
