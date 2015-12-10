@@ -8,7 +8,7 @@
 
 [SIGCSE 2016]: http://conference.researchbib.com/?action=viewEventDetails&eventid=25098&uid=r2791a
 [ITICSE 2016]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=iticse%202016
-[ICALT 2016]: http://ask4research.info/icalt/2015
+[ICALT 2016]: http://www.ask4research.info/icalt/2016/
 
 ## 2015 Paper Targets
 
