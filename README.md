@@ -34,4 +34,4 @@
 ## Resources
 * [Top Conferences in Computer Education] (Microsoft Academic Research)
 
-(Microsoft Academic Research): http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=23&orderby=1
+[Microsoft Academic Research]: http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=23&orderby=1
