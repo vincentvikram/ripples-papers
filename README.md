@@ -1,4 +1,8 @@
 # PAOL Paper Targets
+## 2017 Paper Targets
+* [ICALT 2017]: Timisoara, Romania. July 3-7, 2017
+
+[ICALT 2017]: http://icalt.elearning.upt.ro/?page_id=3396
 
 ## 2016 Paper Targets
 
